@@ -40,8 +40,6 @@ module.exports = function(themes, options) {
                 let themedFile = file.clone();
                 themedFile.contents = Buffer.concat([themeImports[themeName], themedFile.contents]);
                 themedFile.path = path.join(dirname + '\\' + themeName, filename);
-                // console.log('filename', filename);
-                // console.log('themedFile.path', themedFile.path);
                 files.push(themedFile);
             });
 
