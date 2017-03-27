@@ -1,4 +1,4 @@
-# gulp-sass-themes
+# gulp-sass-themes-by-folder
 
 A freely adapted version of [gulp-sass-themes](https://github.com/bbuhler/gulp-sass-themes).
 
