@@ -2,7 +2,7 @@
     "name": "gulp-sass-themes-by-folder",
     "version": "0.0.1",
     "description": "Compile SASS files with different theme (variables) files. Freely inspired by bbuhler's gulp-sass-themes",
-    "main": "sass-themes-by-folder.js",
+    "main": "script.js",
     "dependencies": {
         "slash": "1.0.0",
         "through2": "2.0.0",
